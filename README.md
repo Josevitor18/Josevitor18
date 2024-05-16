@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm José Vitor</h1>
 <h3 align="center">Developer in training from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josevitor18&label=Profile%20views&color=0e75b6&style=flat" alt="josevitor18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josevitordsg&label=Profile%20views&color=0e75b6&style=flat" alt="josevitordsg" /> </p>
 
 - 📖 ADS Student at Instituto Federal do Piauí **.**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/jose_vitorsg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Josevitor18" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jose_vitorsg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josevitordsg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,17 +29,17 @@
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor18&show_icons=true&theme=dracula&locale=en&layout=compact" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor18&show_icons=true&locale=en&layout=compact" />
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitor18&show_icons=true&locale=en&layout=compact" alt="josevitor18" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=josevitordsg&show_icons=true&theme=dracula&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=josevitordsg&show_icons=true&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josevitordsg&show_icons=true&locale=en&layout=compact" alt="josevitordsg" />
     </picture>
   </div>
 
   <div style="display: inline-block; height: 100%;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=josevitor18&show_icons=true&theme=dracula&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=josevitor18&show_icons=true&locale=en" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitor18&show_icons=true&locale=en" alt="josevitor18" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=josevitordsg&show_icons=true&theme=dracula&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=josevitordsg&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=josevitordsg&show_icons=true&locale=en" alt="josevitordsg" />
     </picture>
   </div>
 </div>
